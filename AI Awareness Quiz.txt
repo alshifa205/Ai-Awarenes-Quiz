@@ -1,0 +1,55 @@
+SECTION A
+meta
+google
+anthropic
+xAI
+mistralAI
+OpenAI
+Sora is mainly used for generating AI videos from text/prompts.
+Veo
+Midjourney is mainly used for AI image generation.
+GitHub Copilot is mainly used for AI-assisted coding/programming.
+SECTION B
+Large Language Model
+AI that creates content
+Instruction
+Instruction
+Multiple modalities
+False information
+Text units
+Token limit
+Execution
+Training
+SECTION C
+Autonomous AI
+Autonomy
+Tool use
+Model Context Protocol
+Authentication
+Usage limit
+Code editor
+Documents
+Meaning-based search
+Coding, Writing, Research
+SECTION D
+Transcription
+Speech synthesis
+Text
+Image understanding
+Video generation
+Content generation
+Parallel processing
+Neural Processing Unit
+Model data
+Local inference
+SECTION E
+Accessible model weights
+Compression
+Fine-tuning
+Mixture of Experts
+Evaluation
+Safety control
+Manipulation
+Personally Identifiable Information
+Confidentiality
+Verify
